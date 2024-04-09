@@ -1,5 +1,7 @@
 # Quote Generator 
 
+> This repository is created in an earlier stage where I was just started learning programming. So it is not so good in all manner. But still this is one of my fav projects I've created. If you modify the repo, feel free to proceed!
+
 This repository contains the source code for a web-based quote generator. The generator allows users to generate random quotes and copy them to the clipboard. The project is hosted on [Netlify](https://www.netlify.com/) and is open for collaboration.
 
 <p align="center"><a href="https://akhilmahesh.netlify.app/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" /></a></p>
